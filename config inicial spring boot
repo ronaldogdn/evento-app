@@ -1,0 +1,5 @@
+src/main/java
+	fica os controllers,models,classe de configuração do banco e do spring
+	por padrão é criada a classe de inicialização do spring boot
+src/main/resourses
+	fica páginas estáticas, jquery,javascript,templates(views)
